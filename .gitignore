@@ -1,0 +1,21 @@
+# Virtual environment
+myenv/
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Environment configurations (API Keys & secrets)
+.env
+
+# IDE or Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
