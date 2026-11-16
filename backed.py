@@ -1,3 +1,4 @@
+
 #Phase 2 
 
 #step 1: Setup pydantic model (Schema Validation)
